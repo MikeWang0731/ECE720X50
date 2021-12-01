@@ -1,5 +1,4 @@
 # ECE720X50 - Intro to AI
 University of Alberta Master's Course
-Course Project Repo
-<br>
-Author: Zhaoyi Wang
+<p> Course Project Repo </p>
+<p> Author: Zhaoyi Wang </p>
